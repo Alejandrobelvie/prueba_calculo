@@ -88,3 +88,4 @@ Proyecto elaborado por Alejandro Belvie.
 
 Este proyecto está pensado como una herramienta educativa para comprender la aplicación del cálculo diferencial en problemas de optimización empresarial.
 # prueba_calculo
+# prueba_calculo
